@@ -25,6 +25,9 @@ The Odin Project [here](https://www.theodinproject.com/paths/foundations/courses
 
 ### Built with
 - HTML
+- Markdown
+- Git
+- Github Hosting
 
 ### What I learned
 - I focused on the importance of proper markup (since this was HTML only) and what to 
