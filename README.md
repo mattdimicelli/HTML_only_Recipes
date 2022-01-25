@@ -3,12 +3,11 @@
 
 ## Overview
 
-Elementary project intention with goal of making a HTML website for recipes.
+Elementary project with goal of making a HTML-only website for recipes.
 
 ### Challenge
 
-The design requirements which are detailed in the Odin Recipes project page of 
-The Odin Project [here](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes).  
+The design requirements which are detailed in the Odin Recipes project page [here](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes).  
 
 ### Screenshot
 
