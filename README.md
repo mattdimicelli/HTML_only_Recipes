@@ -17,8 +17,8 @@ The design requirements which are detailed in the Odin Recipes project page [her
 
 ### Links
 
-- [Live site](https://mattdimicelli.github.io/odin-recipes/)
-- [Repo](https://github.com/mattdimicelli/odin-recipes)
+- [Live site](https://mattdimicelli.github.io/HTML_only_Recipes/)
+- [Repo](https://github.com/mattdimicelli/HTML_only_Recipes/)
 
 ## My process
 
